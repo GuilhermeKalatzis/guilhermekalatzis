@@ -1,4 +1,4 @@
-### Hi there 👋
+### Pragmatic Software Engineer developing high-quality software 🚀
 
 <!--
 **GuilhermeKalatzis/guilhermekalatzis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
